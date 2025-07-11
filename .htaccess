@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^randomImages\.(jpg|png)$ randomImages.php [L]
